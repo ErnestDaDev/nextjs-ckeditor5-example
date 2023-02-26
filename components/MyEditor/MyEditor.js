@@ -1,12 +1,12 @@
-import ClassicEditor from "@ckeditor/ckeditor5-build-classic";
+// import ClassicEditor from "@ckeditor/ckeditor5-build-classic";
 import { CKEditor } from "@ckeditor/ckeditor5-react";
-// import Editor from 'ckeditor5-custom-build/build/ckeditor';
+import Editor from 'ckeditor5-custom-build/build/ckeditor';
 import React from "react";
 
 export default function MyEditor(props) {
   return (
     <CKEditor
-      editor={ClassicEditor}
+      editor={Editor}
       config={
         {
           readOnly: true,
