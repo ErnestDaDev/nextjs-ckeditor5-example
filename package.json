@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "file:custom_modules/ckeditor5-build-classic-custom",
-    "@ckeditor/ckeditor5-react": "^5.0.5",
+    "@ckeditor/ckeditor5-react": "^5.1.0",
     "ckeditor5-custom-build": "file:custom_modules/ckeditor5-build-classic-custom",
-    "@next/font": "13.1.1",
-    "eslint": "8.31.0",
-    "eslint-config-next": "13.1.1",
-    "next": "13.1.1",
+    "@next/font": "13.2.1",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.1",
+    "next": "13.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
