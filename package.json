@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-build-classic": "file:custom_modules/ckeditor5-build-classic-custom",
+    "@ckeditor/ckeditor5-build-classic": "file:custom_modules/ckeditor5",
     "@ckeditor/ckeditor5-react": "^5.1.0",
-    "ckeditor5-custom-build": "file:custom_modules/ckeditor5-build-classic-custom",
+    "ckeditor5-custom-build": "file:custom_modules/ckeditor5",
     "@next/font": "13.2.1",
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.1",
